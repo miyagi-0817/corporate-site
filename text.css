@@ -1,0 +1,94 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+
+.top-img{
+  background-image: url("img/ships-6073537_1920.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.top-text{
+  text-align: center;
+  padding: 250px 0;
+}
+
+.top-text h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 100px;
+}
+
+nav h3{
+  font-family: 'Dancing Script', cursive;
+  color: black;
+}
+
+nav .fas{
+  color:#888;
+}
+
+.night{
+  background-image: url("img/water.jpg");
+  background-size: cover;
+  padding: 200px 0;
+  text-align:center;
+  background-attachment: fixed;
+
+}
+.night h2{
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+  margin-bottom: 40px;
+}
+
+
+.service-list{
+  background-color: #333;
+  padding: 50px;
+}
+
+.service-list h2{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+}
+.service-img{
+  width: 100%;
+}
+.service-discription{
+  padding: 30px;
+}
+
+.info{
+  border:solid 2px white;
+  margin: 20px;
+  padding: 20px;
+}
+.icon{
+  font-size: 90px;
+}
+
+footer{
+  background-color: #333;
+  padding: 30px;
+}
+
+footer p{
+  text-align:right;
+}
+
+footer ul li{
+  list-style: none;
+}
+footer ul li a{
+  color: #aaa;
+  font-size: 15px;
+}
+
+footer ul li a:hover{
+  color:#fff;
+  text-decoration: none;
+}
